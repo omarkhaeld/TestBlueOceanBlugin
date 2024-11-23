@@ -26,7 +26,7 @@ pipeline {
 
     stage('debloy') {
       steps {
-        echo 'd comletwd'
+        echo 'deploy'
       }
     }
 
